@@ -1,0 +1,12 @@
+/Users/deepakreddy/Projects/SpreetailWorkSample/SpreetailWorkSample/bin/Debug/netcoreapp3.1/SpreetailWorkSample.deps.json
+/Users/deepakreddy/Projects/SpreetailWorkSample/SpreetailWorkSample/bin/Debug/netcoreapp3.1/SpreetailWorkSample.runtimeconfig.json
+/Users/deepakreddy/Projects/SpreetailWorkSample/SpreetailWorkSample/bin/Debug/netcoreapp3.1/SpreetailWorkSample.runtimeconfig.dev.json
+/Users/deepakreddy/Projects/SpreetailWorkSample/SpreetailWorkSample/bin/Debug/netcoreapp3.1/SpreetailWorkSample.dll
+/Users/deepakreddy/Projects/SpreetailWorkSample/SpreetailWorkSample/bin/Debug/netcoreapp3.1/SpreetailWorkSample.pdb
+/Users/deepakreddy/Projects/SpreetailWorkSample/SpreetailWorkSample/obj/Debug/netcoreapp3.1/SpreetailWorkSample.csprojAssemblyReference.cache
+/Users/deepakreddy/Projects/SpreetailWorkSample/SpreetailWorkSample/obj/Debug/netcoreapp3.1/SpreetailWorkSample.AssemblyInfoInputs.cache
+/Users/deepakreddy/Projects/SpreetailWorkSample/SpreetailWorkSample/obj/Debug/netcoreapp3.1/SpreetailWorkSample.AssemblyInfo.cs
+/Users/deepakreddy/Projects/SpreetailWorkSample/SpreetailWorkSample/obj/Debug/netcoreapp3.1/SpreetailWorkSample.csproj.CoreCompileInputs.cache
+/Users/deepakreddy/Projects/SpreetailWorkSample/SpreetailWorkSample/obj/Debug/netcoreapp3.1/SpreetailWorkSample.dll
+/Users/deepakreddy/Projects/SpreetailWorkSample/SpreetailWorkSample/obj/Debug/netcoreapp3.1/SpreetailWorkSample.pdb
+/Users/deepakreddy/Projects/SpreetailWorkSample/SpreetailWorkSample/obj/Debug/netcoreapp3.1/SpreetailWorkSample.genruntimeconfig.cache
